@@ -148,9 +148,8 @@ The repository can be organised around the following materials:
 ```text
 /
 ├── README.md
-├── canvas/
-│   └── team-functional-canvas.pdf
-├── guide/
+├── team-functional-canvas.pdf
+├── docs/
 │   └── tfc-practical-introduction.pdf
 ├── examples/
 │   └── TBA
